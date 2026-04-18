@@ -1,14 +1,15 @@
-# Olá 👋, eu sou o Mateus Felipe
+# Hi 👋, I'm Mateus Felipe
 
-🚀 **Aspiring DevOps Engineer | Logistic Operator** 🇧🇷 Diadema, SP - Brazil
+🚀 **Junior Software Engineer | Python, Java & DevOps Enthusiast** 🇧🇷 Diadema, SP - Brazil
 
-Atualmente trabalho na área de logística em Diadema, mas estou em total transição para o mundo da tecnologia. Sou fascinado por **automação, infraestrutura e cultura DevOps**. 
+I'm a developer focused on building **scalable solutions** and improving **infrastructure**.  
+I am deeply engaged in learning **clean code, system design, and automation**.
 
-Estou focado em aprender como construir sistemas escaláveis e eficientes, aplicando conceitos de **Clean Code, Docker e versionamento rigoroso**.
+I am currently transitioning from the logistics sector to technology, bringing a strong sense of **process optimization and problem-solving**.
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Where to find me
 
 <p align="left">
   <a href="https://github.com/2110998">
@@ -18,17 +19,24 @@ Estou focado em aprender como construir sistemas escaláveis e eficientes, aplic
 
 ---
 
-## 🧠 O que estou estudando & fazendo
+## 🧠 What I do
 
-- 🏗️ **Infraestrutura como Código (IaC):** Explorando Docker e ecossistema DevOps.
-- 🔄 **CI/CD:** Aprendendo a automatizar fluxos de desenvolvimento.
-- 🛠️ **Versionamento:** Gestão avançada de repositórios com Git e GitHub.
-- 📦 **Logística & Tech:** Entusiasta de como a tecnologia otimiza a cadeia de suprimentos.
-- 🎓 **Desenvolvimento Web:** Fortalecendo a base em tecnologias modernas.
+- 🏗️ Backend Development with **Python & Java**
+- 🐳 Containerization & Infrastructure with **Docker**
+- 🔄 Version Control & Collaboration with **Git/GitHub**
+- 🛠️ API Development & Documentation
+- 🧪 Unit Testing & Debugging
+- 📖 Continuous Learning of DevOps practices
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Languages & Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
 ### DevOps & Tools
 
@@ -37,11 +45,10 @@ Estou focado em aprender como construir sistemas escaláveis e eficientes, aplic
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Frontend & Web
+### Database
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ---
 
@@ -54,11 +61,11 @@ Estou focado em aprender como construir sistemas escaláveis e eficientes, aplic
 
 ---
 
-## 🚀 Filosofia
+## 🚀 Philosophy
 
-> _"O aprendizado contínuo é a única rota para a maestria. Transformando processos logísticos em linhas de código eficientes."_
+> _"Code is not just about solving problems. It's about building solutions that scale, last, and generate real value."_
 
 ---
 
-⭐️ Se você gostou do meu perfil, sinta-se à vontade para explorar meus repositórios!
-🤝 Aberto a trocas de conhecimentos sobre DevOps e transição de carreira.
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
